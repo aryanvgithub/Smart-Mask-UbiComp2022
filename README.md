@@ -24,4 +24,4 @@ We asked participants to follow a 15 exhalation metronome, but the above image s
 - The "CO2" folder contains a complete guide to replicate the CO2 data collection system.
 - The "Li-ion battery charger" contains a complete guide to replicate the Li-ion batteruy charger.
 - The "Data Collection" folder compiles the complete dateset used for evaluation of this prototype.
-- "Smart Mask Data Collection Checklist" is the checklist followed to collect the data.
+- "Data Collection Guide" contains a complete guide to collect the data.
