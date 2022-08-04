@@ -19,6 +19,10 @@ Outdoor data collection followed the indoor one after a gap of about 5-10 minute
 ![wrong-metronome_page-0001](https://user-images.githubusercontent.com/72281283/182385925-edfdf98c-c318-4d43-9ac2-d15a5d6f8411.jpg)
 We asked participants to follow a 15 exhalation metronome, but the above image shows 13 exhalations. Hence, metronome cannot always be used for ground truth
 <br><br>
+# Analysis of breathing rate over time
+![brpm-time_page-0001](https://user-images.githubusercontent.com/72281283/182855465-b65aafdc-4ec6-46da-8cef-176d69f17066.jpg)
+The figure shows breathing rate over time accross different activites performed during data collection. The breathing rate gradually increases towards the end of 6 Minute Walk Test (6 MWT)
+<br><br>
 # This Repository
 - The "Audio" folder contains a complete guide to replicate the audio system to collect the ground truth.
 - The "CO2" folder contains a complete guide to replicate the CO2 data collection system.
